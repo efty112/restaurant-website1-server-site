@@ -1,0 +1,2 @@
+- Client Side Live Link: https://bistro-boss-restaurant-cecfc.web.app/
+- Server Side Live Link: https://bistro-boss-server-five-rho.vercel.app/
